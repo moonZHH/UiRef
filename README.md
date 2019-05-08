@@ -12,8 +12,7 @@ In the MainImpl.java, you need to explicitly change the values of the "apkRootDi
 
 Before running the project, you need to launch a Android emulator.
 
-
-
+The configuration for the emulator is presented as follow.
 Name: 200inch_API_23
 CPU/ABI: Google APIs Intel Atom (x86)
 Target: google_apis [Google APIs] (API level 23)
